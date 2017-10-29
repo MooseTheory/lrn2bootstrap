@@ -1,2 +1,2 @@
 # lrn2bootstrap
-DAvid's attempt to learn how to bootstrap.
+David's attempt to learn how to bootstrap.
